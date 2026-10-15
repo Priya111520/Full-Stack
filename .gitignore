@@ -32,3 +32,7 @@ __MACOSX/
 .vscode/*
 !.vscode/extensions.json
 .idea/
+
+# Scripts
+push_to_github.bat
+
